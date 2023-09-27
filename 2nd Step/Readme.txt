@@ -1,0 +1,1 @@
+In this step, pre processing is done on the data collected in json format to remove the unnecessary information and columns, joining tables using key mapping and modifying existing columns

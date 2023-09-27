@@ -1,0 +1,1 @@
+Here, create 4 different data collectors on Bright Data, then on respective data collectors apply the interaction and parser codes
