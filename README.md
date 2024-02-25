@@ -6,4 +6,4 @@ This project is a Data Analytics project of comparision of best cricketers
 
 2nd Step - Data pre processing and converting to csv format
 
-3rd Step - Data Transformation and Visualization using Power Bi
+3rd Step - Data Transformation and Visualization using Tableau
